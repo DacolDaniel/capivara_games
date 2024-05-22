@@ -1,0 +1,16 @@
+# BEGIN WordPress
+# As diretrizes (linhas) entre "BEGIN WordPress" e "END WordPress" são
+# geradas dinamicamente e só devem ser modificadas através de filtros do WordPress.
+# Quaisquer alterações nas diretivas entre esses marcadores serão sobrescritas.
+
+# END WordPress
+
+# BEGIN Simply Static
+# As diretrizes (linhas) entre "BEGIN Simply Static" e "END Simply Static" são
+# geradas dinamicamente e só devem ser modificadas através de filtros do WordPress.
+# Quaisquer alterações nas diretivas entre esses marcadores serão sobrescritas.
+<Files "/var/www/html/wp-content/uploads/simply-static/ec60a1309164ef7356ebf50e461389b9-debug.txt">
+require all denied
+require host localhost
+</Files>
+# END Simply Static
